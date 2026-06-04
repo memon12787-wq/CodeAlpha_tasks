@@ -2,7 +2,7 @@
 Collection of Python projects completed during the CodeAlpha Python Programming Internship.
 
 
-## Project 1 — Rule-Based AI Chatbot
+## Task 1 — Rule-Based AI Chatbot
 A simple rule-based chatbot built using Python. It responds to user inputs using predefined conditions and demonstrates core programming concepts like loops, functions, and conditional statements.
 
 ### Concepts Used
@@ -21,7 +21,7 @@ A simple rule-based chatbot built using Python. It responds to user inputs using
 python CodeAlpha_BasicChatbot.py
 
 
-### Project 2 — Hangman Game (Python)
+### Task 2 — Hangman Game (Python)
 A simple text-based Hangman Game developed using Python as part of the CodeAlpha Internship. The game randomly selects a word from a predefined list and allows the player to guess it letter by letter within a limited number of attempts.
 
 ### Concepts Used
@@ -42,7 +42,7 @@ A simple text-based Hangman Game developed using Python as part of the CodeAlpha
 python CodeAlpha_HangmanGame.py
 
 
-## Project 3 — Stock Portfolio Tracker (Python)
+## Task 3 — Stock Portfolio Tracker (Python)
 A simple Stock Portfolio Tracker built using Python as part of the CodeAlpha Internship. The project allows users to input stock names and quantities, calculates the total investment value using a predefined stock price dictionary, and saves the portfolio data into a CSV file for future reference.
 
 ### Concepts Used
